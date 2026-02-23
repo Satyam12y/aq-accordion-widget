@@ -15,8 +15,5 @@ This project is a responsive FAQ Accordion Widget built using HTML, CSS, and Jav
 - CSS3
 - JavaScript (ES6)
 
-## 📷 Preview
-![Project Preview](images/preview.png)
-
 ## 🌐 Live Demo
 https://satyam12y.github.io/aq-accordion-widget/
