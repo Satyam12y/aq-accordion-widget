@@ -16,7 +16,9 @@ This project is a responsive FAQ Accordion Widget built using HTML, CSS, and Jav
 - JavaScript (ES6)
 
 ## 📷 Preview
-(Add screenshot here)
+
+
+![Project Preview](preview.png)
 
 ## 🌐 Live Demo
 (Add GitHub Pages link here after deployment)
